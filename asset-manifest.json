@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.47eda37f.css",
-    "main.js": "/static/js/main.4bcefa78.js",
+    "main.js": "/static/js/main.c58f9615.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/youtube.png": "/static/media/youtube.89318ee10a8dabed10a8.png",
     "static/media/ecotour.png": "/static/media/ecotour.8e633941d23abcc210dd.png",
@@ -14,6 +14,7 @@
     "static/media/quiz.png": "/static/media/quiz.8ac78d0386fc77b4e4fd.png",
     "static/media/googleform.png": "/static/media/googleform.6f78a82ec6f3e2f1347b.png",
     "static/media/totoo.png": "/static/media/totoo.a96d9d157a5d2ad83fae.png",
+    "static/media/todoserver.png": "/static/media/todoserver.637d769d9da32f47b194.png",
     "static/media/counter.png": "/static/media/counter.949943617b362168a0b2.png",
     "static/media/starrating.png": "/static/media/starrating.687b2b29ac28c05785d6.png",
     "static/media/birthday.png": "/static/media/birthday.2cc6a710c5d730f63d7b.png",
@@ -31,11 +32,11 @@
     "static/media/bootstrap.png": "/static/media/bootstrap.b9d40f1d49fa0fc592b4.png",
     "index.html": "/index.html",
     "main.47eda37f.css.map": "/static/css/main.47eda37f.css.map",
-    "main.4bcefa78.js.map": "/static/js/main.4bcefa78.js.map",
+    "main.c58f9615.js.map": "/static/js/main.c58f9615.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47eda37f.css",
-    "static/js/main.4bcefa78.js"
+    "static/js/main.c58f9615.js"
   ]
 }
