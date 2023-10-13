@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.269dd226.css",
-    "main.js": "/static/js/main.b1e71570.js",
+    "main.js": "/static/js/main.189a6832.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/youtube.png": "/static/media/youtube.2308ba1039f7932137de.png",
     "static/media/ecotravel.png": "/static/media/ecotravel.44a6b016c341e1c399df.png",
@@ -12,7 +12,7 @@
     "static/media/profile3.png": "/static/media/profile3.faed6bb72c5682c37131.png",
     "static/media/admin.png": "/static/media/admin.95b3e3983a1f21eeaf9b.png",
     "static/media/profile.png": "/static/media/profile.a05fe2d9aa95c5a1a4ab.png",
-    "static/media/swetarani-patel-resume.pdf": "/static/media/swetarani-patel-resume.b67442a76684390d1a08.pdf",
+    "static/media/Swetarani-Patel-Resume.pdf": "/static/media/Swetarani-Patel-Resume.b67442a76684390d1a08.pdf",
     "static/media/quiz.png": "/static/media/quiz.8ac78d0386fc77b4e4fd.png",
     "static/media/googleform.png": "/static/media/googleform.6f78a82ec6f3e2f1347b.png",
     "static/media/totoo.png": "/static/media/totoo.a96d9d157a5d2ad83fae.png",
@@ -35,11 +35,11 @@
     "static/media/bootstrap.png": "/static/media/bootstrap.b9d40f1d49fa0fc592b4.png",
     "index.html": "/index.html",
     "main.269dd226.css.map": "/static/css/main.269dd226.css.map",
-    "main.b1e71570.js.map": "/static/js/main.b1e71570.js.map",
+    "main.189a6832.js.map": "/static/js/main.189a6832.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.269dd226.css",
-    "static/js/main.b1e71570.js"
+    "static/js/main.189a6832.js"
   ]
 }
